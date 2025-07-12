@@ -1,18 +1,24 @@
-## Summer 2025 Coding with Allen Institute Data: A Coding Workshop for Undergradaute Neuroscience Educators
+# Coding with Allen Institute Data (2025)
+### A Python Workshop for Undergraduate Neuroscience Educators
 
 [Program Website](https://alleninstitute.org/events/educatorcodingworkshop/)
 
+<hr> 
+
 ### Design Team
 Rachel Penton, Allen Institute 
+
 Ashley Juavinett, UCSD
 
 ### Primary Facilitation Team 
 Rachel Penton, Allen Institute 
+
 Ashley Juavinett, UCSD 
+
 Theresa McKim, UNR 
 
-## Learning Outcomes
-### Participants will be able to:  
+### Learning Outcomes
+#### Participants will be able to:  
 1. Learn the basics of Python
 2. Use Python coding language to analyze open neuroscience data
 3. Identify resources for coding with Python (e.g., Github, StackExchange, etc.)
