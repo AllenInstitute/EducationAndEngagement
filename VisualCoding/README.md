@@ -14,10 +14,10 @@ This lesson has three notebooks.
 
 The lesson assumes students have some familiarity with python. Specifically students are expected to be familiar with:
 
-for loops
-enumerate is demonstrated
-**numpy**: creating and working with arrays
-**pandas**: simple dataframe functions
-**matplotlib**: plot, imshow, labeling axes (errorbars, axvspan, axhline are also used, but are demonstrated in the notebooks)
+- for loops,
+- enumerate is demonstrated
+- **numpy**: creating and working with arrays
+- **pandas**: simple dataframe functions
+- **matplotlib**: plot, imshow, labeling axes (errorbars, axvspan, axhline are also used, but are demonstrated in the notebooks)
 
 A pdf of the `Visual Coding 2P Cheat Sheet` is also in this repository to help students familiarize themselves with the dataset and SDK functions.
