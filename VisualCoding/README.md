@@ -1,4 +1,4 @@
-Visual Coding Lesson
+# Visual Coding Lesson
 
 Use the Allen Brain Observatory Visual Coding 2-photon calcium imaging dataset to compute tuning curves of neurons in the mouse visual cortex and compare responses of different neurons in the cortex. 
 
