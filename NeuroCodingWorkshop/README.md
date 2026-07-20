@@ -7,7 +7,7 @@
 <hr>
 
 
-### :point_right: Button to use these materials
+### Colab button to interact with these materials :computer:
 <a target="_blank" href="https://colab.research.google.com/github/AllenInstitute/EducationAndEngagement/NeuroCodingWorkshop">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -15,7 +15,7 @@
 
 ## About the Workshop
 
-### [Program Website](https://alleninstitute.org/events/educator-coding-workshop-2026)
+### :point_right: [Program Website](https://alleninstitute.org/events/educator-coding-workshop-2026)
 
 ### Learning Outcomes
 #### Participants will be able to:  
