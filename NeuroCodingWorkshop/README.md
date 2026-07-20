@@ -37,3 +37,8 @@ Ashley Juavinett, UC San Diego
 Theresa McKim, UNR
 
 Shang Lin (Tommy) Lee, Barnard College
+
+Saskia de Vries, Allen Institute
+
+### License
+These materials are covered by an MIT license (see main [Education & Engagement](https://github.com/AllenInstitute/EducationAndEngagement/tree/main) repo).
