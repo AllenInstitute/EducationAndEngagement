@@ -2,7 +2,7 @@
 ### A Python Workshop for Undergraduate Neuroscience Educators
 
 ![](https://github.com/AllenInstitute/EducationAndEngagement/blob/main/NeuroCodingWorkshop/2025%20Coding%20Workshop%20Group%20Photo.jpeg?raw=true)
-<small>Photo from 2025 workshop</small>
+<small>(*Photo from 2025 workshop*)</small>
 
 [Program Website](https://alleninstitute.org/events/educator-coding-workshop-2026)
 
@@ -10,11 +10,14 @@
 
 ### Design Team
 Ashley Juavinett, UC San Diego
+
 Rachel Penton, Allen Institute 
 
 ### Primary Facilitation Team 
 Ashley Juavinett, UC San Diego 
+
 Theresa McKim, UNR
+
 Shang Lin (Tommy) Lee, Barnard College
 
 ### Learning Outcomes
