@@ -8,7 +8,7 @@
 
 
 ### :computer: Interact with these materials 
-<a target="_blank" href="https://colab.research.google.com/github/AllenInstitute/EducationAndEngagement/NeuroCodingWorkshop">
+<a target="_blank" href="https://colab.research.google.com/github/AllenInstitute/EducationAndEngagement/blob/main/NeuroCodingWorkshop">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
