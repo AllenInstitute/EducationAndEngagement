@@ -8,10 +8,7 @@
 
 
 ### :computer: Interact with these materials 
-<a target="_blank" href="https://colab.research.google.com/github/AllenInstitute/EducationAndEngagement/blob/main/NeuroCodingWorkshop">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
+To interact with these notebooks, open one by clicking above, and then click on the **Open in Colab** button at the top at the top of the notebook.
 
 ## About the Workshop
 
