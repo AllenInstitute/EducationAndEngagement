@@ -33,7 +33,7 @@ Ashley Juavinett, UC San Diego
 
 Theresa McKim, UNR
 
-Shang Lin (Tommy) Lee, Barnard College
+Tommy Lee, Barnard College, Columbia University
 
 Saskia de Vries, Allen Institute
 
