@@ -1,7 +1,7 @@
 # Coding with Allen Institute Data (2026)
 ### A Python Workshop for Undergraduate Neuroscience Educators
 
-![](https://github.com/AllenInstitute/EducationAndEngagement/blob/main/NeuroCodingWorkshop/2026%20Coding%20Workshop%20Group%20Photo.jpeg?raw=true)
+![](https://github.com/AllenInstitute/EducationAndEngagement/blob/main/NeuroCodingWorkshop/2026%20Coding%20Workshop%20Group%20Photo.png?raw=true)
 <small>(*Photo from 2026 workshop*)</small>
 
 <hr>
